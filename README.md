@@ -1,5 +1,10 @@
 # sphinx-template
 
+Sphinx can be used to create general documentation, not just for Python modules.
+It supports reStructuredText (reST) and Markdown, making it a versatile tool for documentation.
+
+This repo is a playground / reference for creating documentation with Sphinx.
+
 ## Download dependencies
 
 ### Install `pandoc` for `.md` to `.rst` file conversion
