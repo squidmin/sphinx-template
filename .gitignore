@@ -36,17 +36,12 @@ htmlcov/
 *.tmp
 *.bak
 *.backup
-*.swp
-*.swo
 
 # Generated documentation
 *.rst~
 *.md~
-*.bak
-*.backup
 *.old
 
 # Miscellaneous
-*.log
 *.out
 *.err
